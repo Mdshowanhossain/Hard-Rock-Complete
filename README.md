@@ -1,8 +1,8 @@
-# hard-rock-solution
+# Hard Rock Lyric. (Vanila JavaScript)
 ### Search Song
-api link: https://api.lyrics.ovh/suggest/:searchText
+Api Link: https://api.lyrics.ovh/suggest/:searchText
 
-example: https://api.lyrics.ovh/suggest/hello
+Live Link: https://mdshowanhossain.github.io/Hard-Rock-Complete/
 
 ### Lyric
 lyric link: https://api.lyrics.ovh/v1/:artist/:title
